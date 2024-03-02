@@ -15,7 +15,7 @@ Vue.use(VueMoment, { moment });
 
 Vue.prototype.$http = axios;
 //Vue.prototype.$api = 'http://127.0.0.1:8000/api';
-Vue.prototype.$api = 'http://juniorfullstackenergeek.juliyapradnya.my.id/api';
+Vue.prototype.$api = 'https//juniorfullstackenergeek.juliyapradnya.my.id/api';
 
 
 new Vue({
